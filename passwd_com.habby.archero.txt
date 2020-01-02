@@ -1,0 +1,24 @@
+[BEGIN]
+Archero mod:
+ - unlimited levels
+ - 100% headshot
+
+Instructions:
+1) Download "Archero" from playstore
+2) Apply this custom patch
+
+Tested: v 1.3.1
+
+[LIB]
+{"name":"libil2cpp.so"}
+
+{"original":"08 6c 41 b9 09 68 41 b9 1f 01 09 6b e0 b7 9f 1a c0 03 5f d6"}
+{"replaced":"08 6c 41 b9 09 68 41 b9 1f 01 09 6b 00 00 80 52 c0 03 5f d6"}
+
+{"original":"e8 57 9f 1a 68 26 06 39 1f 01 00 71 e0 07 9f 1a"} 
+{"replaced":"e8 57 9f 1a 68 26 06 39 1f 01 00 71 e0 17 9f 1a"} 
+
+[END]
+
+Enjoy!
+By passwd!!
